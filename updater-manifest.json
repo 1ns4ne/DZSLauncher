@@ -1,0 +1,35 @@
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "path": "launcher/version.json",
+      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1/version.json",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0
+    },
+    {
+      "path": "launcher/launcher.exe",
+      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1/launcher.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0
+    },
+    {
+      "path": "launcher/steam_api64.dll",
+      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1/steam_api64.dll",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0
+    },
+    {
+      "path": "launcher/assets/banner_dark.png",
+      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1/banner_dark.png",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0
+    },
+    {
+      "path": "launcher/assets/banner_light.png",
+      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1/banner_light.png",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0
+    }
+  ]
+}

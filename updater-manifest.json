@@ -3,26 +3,26 @@
   "files": [
     {
       "path": "launcher/launcher.exe",
-      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1_000/launcher.exe",
+      "url": "https://github.com/1ns4ne/DZSLauncher/releases/download/v1.0.1_000/launcher.exe",
       "sha256": "438bdab27732b7f27b1942c6f6a9dc1ffef4d5e60e550712d9792c170677b3d3",
       "size": 0
     },
     {
       "path": "launcher/steam_api64.dll",
-      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1_000/steam_api64.dll",
+      "url": "https://github.com/1ns4ne/DZSLauncher/releases/download/v1.0.1_000/steam_api64.dll",
       "sha256": "e6d9bafb9a41e42fba7b21553db49f8719027af3f0deb23ff86cfc44d60e776d",
       "size": 0
     },
     {
       "path": "launcher/assets/banner_dark.png",
-      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1_000/banner_dark.png",
+      "url": "https://github.com/1ns4ne/DZSLauncher/releases/download/v1.0.1_000/banner_dark.png",
       "sha256": "617ba2a48ad5e58b18b14e9cce64489837d6605e671de253eae383f2c8274ccf",
       "size": 0,
       "optional": true
     },
     {
       "path": "launcher/assets/banner_light.png",
-      "url": "https://github.com/your-name/dzsl-releases/releases/download/v1.0.1_000/banner_light.png",
+      "url": "https://github.com/1ns4ne/DZSLauncher/releases/download/v1.0.1_000/banner_light.png",
       "sha256": "1c90e317ef3adc87ac7efef00361b604550de6a2bd32cd19c5df115366e75ec4",
       "size": 0,
       "optional": true
